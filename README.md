@@ -1,6 +1,6 @@
 ## CRUD GraphQL with NestJS
 
----
+## <img alt="graphql playground" src= "./images/graphql-playground.png"/>
 
 ### Prerequisites
 
